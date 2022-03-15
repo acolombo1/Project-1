@@ -53,7 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
+- ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## 📝 License
 
