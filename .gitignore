@@ -351,3 +351,6 @@ MigrationBackup/
 
 # npm dependencies directory
 node_modules/
+
+# instructed to be ignored
+test.md
