@@ -351,3 +351,10 @@ MigrationBackup/
 
 # Set-up linters in your local env
 node_modules/
+
+# linter specific files
+.hintrc
+.stylelintrc.json
+
+# file instructed to be ignored
+test.md
