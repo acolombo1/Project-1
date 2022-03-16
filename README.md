@@ -39,9 +39,9 @@ Not needed.
 
 👤 **Author1**
 
-- GitHub: @acolombo1 (https://github.com/acolombo1)
-- Twitter: @aldocolombo (https://twitter.com/aldocolombo)
-- LinkedIn: Aldo Colombo (https://www.linkedin.com/in/aldo-colombo-2156009)
+- GitHub: [@acolombo1](https://github.com/acolombo1) (https://github.com/acolombo1)
+- Twitter: [@aldocolombo](https://twitter.com/aldocolombo) (https://twitter.com/aldocolombo)
+- LinkedIn: [Aldo Colombo](https://www.linkedin.com/in/aldo-colombo-2156009) (https://www.linkedin.com/in/aldo-colombo-2156009)
 
 ## 🤝 Contributing
 
