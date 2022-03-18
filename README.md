@@ -1,6 +1,6 @@
 # Project-1
 
-> Welcome to Microverse Project, at day 2 at Microverse
+"Welcome to Microverse Project", at day 2 at Microverse
 
 ## Built With
 
