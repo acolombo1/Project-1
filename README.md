@@ -1,6 +1,6 @@
 # Project-1
 
-> Welcome to Microverse Project, at day 2 at Microverse
+"Welcome to Microverse Project", at day 2 at Microverse
 
 ## Built With
 
@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
